@@ -2,13 +2,13 @@
 
 ### A simple CRUD API for managing user accounts, built with Express.js. This API allows creating, reading, updating, and deleting user data.
 
-#### Installation
+### Installation
 
 Clone the repository:
 
 git clone <your-repository-url>
 
-#### Install dependencies:
+### Install dependencies:
 
 npm install
 
@@ -18,7 +18,7 @@ npm start
 
 Server runs on http://localhost:3000.
 
-#### Endpoints
+### Endpoints
 
 GET / - Retrieve all users.
 
@@ -30,9 +30,10 @@ DELETE / - Delete a user by ID.
 
 PATCH / - Update user info by ID.
 
-#### Example Data
+### Example Data
 
-##### Sample user object:
+### Sample user object:
+<hr>
 
 {
     "id": "1",
@@ -40,11 +41,12 @@ PATCH / - Update user info by ID.
     "email": "john@example.com",
     "role": "user"
 }
+<hr>
 
-#### Contributing
+### Contributing
 
 Contributions are welcome! If you'd like to contribute to Blogger's Hub, please follow these steps:
 
-#### Happy Blogging!
+### Happy Blogging!
 
 Save this content as README.md in the root directory of your project. This README provides a comprehensive overview of the Blogger's Hub application, including setup instructions, features, technologies used, and guidelines for contributing.
