@@ -46,7 +46,3 @@ PATCH / - Update user info by ID.
 ### Contributing
 
 Contributions are welcome! If you'd like to contribute to Blogger's Hub, please follow these steps:
-
-### Happy Blogging!
-
-Save this content as README.md in the root directory of your project. This README provides a comprehensive overview of the Blogger's Hub application, including setup instructions, features, technologies used, and guidelines for contributing.
